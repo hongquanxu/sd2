@@ -9,7 +9,7 @@ Date: 7/12/2025
 
 ## R Files: 
 
- SD2.R : R codes to compute the stratified L2-discrepancy 
+ sd2.R : R codes to compute the stratified L2-discrepancy 
  
  Examples.R : Examples 2, 3, 5
  
