@@ -1,4 +1,4 @@
-## sd2 : A Stratified L2-Discrepancy with Application to Space-Filling Designs.
+## sd2 : A Stratified L2-Discrepancy with Application to Space-Filling Designs
 
 Journal: Journal of the Royal Statistical Society, Series B.
 
