@@ -1,11 +1,8 @@
-# sd2
-Stratified L2-Discrepancy
+## sd2 : A Stratified L2-Discrepancy with Application to Space-Filling Designs.
+## Journal: Journal of the Royal Statistical Society, Series B.
+## Authors: Ye Tian and Hongquan Xu
+## Date: 7/12/2025
 
-## Supplemental R codes and data for
-## Tian, Y. and Xu, H. (2025+). A Stratified L2-Discrepancy with Application to Space-Filling Designs. Journal of the Royal Statistical Society, Series B.
-##
-## Date: 7/12/25
-##
 
 ## R Files: 
 
