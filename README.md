@@ -10,9 +10,13 @@ Stratified L2-Discrepancy
 ## R Files: 
 
  SD2.R : R codes to compute the stratified L2-discrepancy 
+ 
  Examples.R : Examples 2, 3, 5
+ 
  Table1.R : Table 1 and Figure 4
+ 
  Table2.R : Table 2
+ 
  Figure5.R : Figure 5 and Figure S1
 
 ## Data:  
